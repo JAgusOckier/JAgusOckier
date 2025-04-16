@@ -1,7 +1,7 @@
 
 # Juan Agustin Ockier
 
-Frontend Developer | React | Next.js | TailwindCSS | TypeScript
+Frontend | Full Stack Developer | React | Next.js | TailwindCSS | TypeScript
 
 Desarrollador Frontend con enfoque Full Stack, especializado en React, Next.js, TailwindCSS y TypeScript.
 Tengo experiencia construyendo aplicaciones web modernas, escalables y orientadas al usuario, integrando APIs y backend con Node.js y bases de datos PostgreSQL usando TypeORM.
