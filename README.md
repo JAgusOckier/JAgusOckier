@@ -25,13 +25,16 @@ Estoy abierto a nuevas oportunidades donde pueda seguir creciendo y aportar valo
 
 ## 📫 Contacto
 <p align="left">
-  <a href="mailto:juanockier@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/000000/new-post.png" alt="Email"/> juanockier@gmail.com
+  <a href="mailto:juanockier@gmail.com" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://img.icons8.com/color/30/000000/gmail--v1.png" alt="Gmail icon" />
+    <span style="margin-left: 5px;">juanockier@gmail.com</span>
   </a>
-  <br/>
-  <a href="https://www.linkedin.com/in/juanagustin-ockier/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn"/> linkedin.com/in/juanagustin-ockier
+  <br />
+  <a href="https://www.linkedin.com/in/juanagustin-ockier/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn icon" />
+    <span style="margin-left: 5px;">linkedin.com/in/juanagustin-ockier</span>
   </a>
 </p>
+
 
 
